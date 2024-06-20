@@ -1,0 +1,5 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+suivis_stock		TAR	128	nouvelle taille enregistrement : 128
+suivis_stock	Codestock	RUB+		Codestock est une nouvelle clé
+Contrainte_suivis_stock_stock		NWL	stock (Codestock) et suivis_stock (Codestock)	Nouvelle liaison entre les fichiers stock (Codestock) et suivis_stock (Codestock)
+Contrainte_suivis_stock_stock		DEL	stock (Idstock) et suivis_stock (Idstock)	Liaison supprimée entre les fichiers stock (Idstock) et suivis_stock (Idstock)

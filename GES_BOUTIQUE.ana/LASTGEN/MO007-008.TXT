@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+suivis_stock		NFI		nouveau fichier
+Contrainte_suivis_stock_stock		NWL	stock (Idstock) et suivis_stock (Idstock)	Nouvelle liaison entre les fichiers stock (Idstock) et suivis_stock (Idstock)

@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+stock		TAR	231	nouvelle taille enregistrement : 231
+stock		IDE+*		fichier avec identifiant
+stock	Idstock	RUB+		Idstock est une nouvelle clé

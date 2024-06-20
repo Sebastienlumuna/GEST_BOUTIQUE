@@ -1,0 +1,2 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Categorie_produit	Designationcategorie	CLEN*		la rubrique Designationcategorie est maintenant une clé

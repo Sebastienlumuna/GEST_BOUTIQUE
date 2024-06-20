@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+stock		TAR	227	nouvelle taille enregistrement : 227
+stock	Prixunit	CNW	Monétaire$Chaîne	la rubrique Prixunit a pour nouveau type Monétaire

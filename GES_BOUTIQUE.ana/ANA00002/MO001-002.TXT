@@ -1,0 +1,2 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Utilisateur	Nomutilisateur	CLEN*		la rubrique Nomutilisateur est maintenant une clé

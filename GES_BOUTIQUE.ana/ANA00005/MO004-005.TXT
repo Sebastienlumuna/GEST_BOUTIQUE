@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+stock		NFI		nouveau fichier
+Contrainte_stock_produit		NWL	produit (Codeproduit) et stock (Codeproduit)	Nouvelle liaison entre les fichiers produit (Codeproduit) et stock (Codeproduit)

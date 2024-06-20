@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+agent		NFI		nouveau fichier
+Utilisateur		NFI		nouveau fichier
+connexion		NFI		nouveau fichier
+Contrainte_Utilisateur_agent		NWL	agent (Matricatgent) et Utilisateur (Matricatgent)	Nouvelle liaison entre les fichiers agent (Matricatgent) et Utilisateur (Matricatgent)
+Contrainte_connexion_Utilisateur		NWL	Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et connexion (IDUtilisateur)

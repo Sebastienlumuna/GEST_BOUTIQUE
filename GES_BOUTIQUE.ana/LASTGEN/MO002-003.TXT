@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Categorie_produit		NFI		nouveau fichier
+produit		NFI		nouveau fichier
+Contrainte_produit_Categorie_produit		NWL	Categorie_produit (Codecategorie) et produit (Codecategorie)	Nouvelle liaison entre les fichiers Categorie_produit (Codecategorie) et produit (Codecategorie)
